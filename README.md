@@ -5,7 +5,7 @@
 ## End-point: Register
 ### Method: POST
 >```
->undefined
+>http://localhost:8080/auth/register
 >```
 ### Body (**raw**)
 
@@ -23,7 +23,7 @@
 ## End-point: Login
 ### Method: POST
 >```
->undefined
+>http://localhost:8080/auth/login
 >```
 ### Body (**raw**)
 
